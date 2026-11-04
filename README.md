@@ -1,12 +1,17 @@
 # Oi, eu sou o Carlos Elias 👋
 
-Estudante de **Engenharia de Computação** no IFPB (Campina Grande - PB), desenvolvedor full stack com foco em **IA aplicada**.
+Estudante de **Engenharia de Computação** no IFPB (Campina Grande - PB), desenvolvedor full stack com foco em **IA aplicada** e arquiteturas heterogêneas.
 
 ## O que faço hoje
 
-- **Residência TIC em Engenharia de Software** no VIRTUS-CC / UFCG: lidero o front-end e o UI/UX de uma plataforma de benchmark de SLMs/LLMs em Edge Computing.
-- **Divulga Mercador** (projeto próprio, em produção): automação de ofertas para afiliados, com Python/FastAPI, PostgreSQL, Next.js e integração com a Gemini API (texto e visão).
-- Desenvolvo com agentes de IA no dia a dia, usando o Antigravity, e reviso e valido o que é gerado.
+- **Projeto de Fotônica & Controle MZM** em parceria com o VIRTUS-CC: desenvolvimento de sistema heterogêneo distribuído (RP2040 com C determinístico + Raspberry Pi CM5 em Linux com Python/FastAPI) para controle automático de BIAS em moduladores MZM/IQ e estabilização térmica de laser.
+- **Divulga Mercador** (projeto próprio, em produção): automação de ofertas para afiliados com Python/FastAPI, PostgreSQL, Next.js e integração em produção com a Gemini API (geração de texto e visão multimodal).
+- Desenvolvo com agentes de IA no dia a dia usando o Antigravity, revisando e validando rigorosamente o que é gerado.
+
+## Experiência recente
+
+- **Residência TIC em Engenharia de Software** no VIRTUS-CC / UFCG (concluída em Out/2026): liderança de front-end e UI/UX na plataforma corporativa de benchmark de SLMs/LLMs em Edge Computing.
+- Dois anos de capacitação técnica em sistemas embarcados (C bare-metal, FreeRTOS, STM32, Raspberry Pi, instrumentação e fibra óptica).
 
 ## Stack
 
@@ -20,13 +25,11 @@ Estudante de **Engenharia de Computação** no IFPB (Campina Grande - PB), desen
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
-Também tenho dois anos de base em sistemas embarcados (C, FreeRTOS, STM32, Raspberry Pi).
-
 ## Projeto público em destaque
 
-- **[gemini-llm-toolkit](https://github.com/PlayzyJar/gemini-llm-toolkit)**: cliente assíncrono do Gemini com fallback entre modelos, geração de texto e curadoria multimodal de imagens, com 21 testes automatizados.
+- **[gemini-llm-toolkit](https://github.com/PlayzyJar/gemini-llm-toolkit)**: cliente assíncrono do Gemini com fallback entre modelos, geração de texto com restrições e curadoria multimodal de imagens, com 21 testes automatizados.
 
-Meus projetos maiores são privados, então o código deles não está aqui.
+Meus projetos maiores são privados ou em parceria com centros de pesquisa, então o código principal não está aberto aqui.
 
 ## Contato
 
