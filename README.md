@@ -1,4 +1,4 @@
-# Oi, eu sou o Carlos Elias 👋
+# Quem é Carlos Elias? 👋
 
 Estudante de **Engenharia de Computação** no IFPB (Campina Grande - PB), desenvolvedor full stack com foco em **IA aplicada** e arquiteturas heterogêneas.
 
